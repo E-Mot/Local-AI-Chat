@@ -46,11 +46,17 @@ LocalAIChat/
 ## ✨ Current Features
 
 ✅ Local LLM chat using Ollama
+
 ✅ Streaming AI responses (typing effect)
+
 ✅ Tkinter-based chat interface
+
 ✅ Chat bubbles with user/AI separation
+
 ✅ Scrollable conversation history
+
 ✅ Responsive resizing behavior
+
 ✅ Can be packaged into a single `.exe` for Windows (using PyInstaller)
 
 ---
