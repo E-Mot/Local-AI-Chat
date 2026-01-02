@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+#IDE-specific configuration files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# System files (Windows & Mac)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# Jupyter Notebooks (if ever used)
+.ipynb_checkpoints/
+
+# Word temporary backup files
+~$*.docx
